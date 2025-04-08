@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Bluetooth Headphones",
+      "price": 1999,
+      "category": "Electronics",
+      "image": "https://imgs.search.brave.com/I2oooJCNHe6D18meb75lzY0acztRk_CwTKaob7fl5Ug/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzEwLzQ4LzM5Lzk2/LzM2MF9GXzEwNDgz/OTk2NDNfSmNBYVBr/UUZxYWs1Z3hRR1BI/NFlKTEtFMHlkcTFH/d0EuanBn"
+    },
+    {
+      "name": "Sporty Sneakers",
+      "price": 2999,
+      "category": "Footwear",
+      "image": "https://imgs.search.brave.com/QJd9jNRQRhN-b6Tw67obCrbilsHJDiVZVgn9NgUa6Ks/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFkRmtEN0l0eUwu/anBn"
+    },
+    {
+      "name": "Leather Wallet",
+      "price": 899,
+      "category": "Accessories",
+      "image": "https://imgs.search.brave.com/nM8YHcq_wClbI5Qwk1-7KWsu3k2Ax3SSRnStw0kRfsc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb3R1/ZmZsZWF0aGVyLmNv/bS9jZG4vc2hvcC9w/cm9kdWN0cy9Mb3R1/ZmZfTGVhdGhlcl9C/aWZvbGRfV2FsbGV0/X0JsYWNrXzFfMjAw/MHgucHJvZ3Jlc3Np/dmUuanBnP3Y9MTc0/MTIwMjgzMg"
+    },
+    {
+      "name": "Classic Denim Jeans",
+      "price": 1499,
+      "category": "Clothing",
+      "image": "https://imgs.search.brave.com/GcwbLKTvKUyYNEhiADzrUCJ41Lv6pbRKsCUX34jRULs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAzLzM1LzE0LzA2/LzM2MF9GXzMzNTE0/MDYzN19Xakc5UXBk/NG14aFRENENoQWF5/c3ZKSzV6RElDYnlP/eC5qcGc"
+    },
+    {
+      "name": "Wireless Mouse",
+      "price": 499,
+      "category": "Electronics",
+      "image": "https://imgs.search.brave.com/tuMRDCOx3bBqyqbYEAHbo2TF6dQ3rRwLs5eBNLW20Ns/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9jb21wdXRlci1t/b3VzZS13aXJlbGVz/cy1ibGFjay1nbG9z/c3ktbW9kZXJuLWJs/dWV0b290aC1lbGVj/dHJvbmljLWNvbm5l/Y3Rvci1pc29sYXRl/ZF83MTYzMi0zMjcu/anBnP3NlbXQ9YWlz/X2h5YnJpZA"
+    }
+  ]
+  

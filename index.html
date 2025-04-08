@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Product Grid</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Product Catalog</h1>
+
+    <!-- Search and Filter -->
+    <div class="filters">
+      <input type="text" id="searchInput" placeholder="Search products..." />
+      <select id="priceFilter">
+        <option value="all">All Prices</option>
+        <option value="under1000">Under ₹1000</option>
+        <option value="1000to2000">₹1000 - ₹2000</option>
+        <option value="above2000">Above ₹2000</option>
+      </select>
+    </div>
+
+    <!-- Product Grid -->
+    <div id="productGrid" class="product-grid"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
