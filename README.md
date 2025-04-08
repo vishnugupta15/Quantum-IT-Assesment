@@ -22,6 +22,3 @@ This project is part of a front-end development assessment. It demonstrates a re
 - ✅ Clean and modern UI with hover effects
 
 ---
-
-## 📂 Project Structure
-
